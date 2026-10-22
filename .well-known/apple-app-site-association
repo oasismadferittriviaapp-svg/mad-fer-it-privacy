@@ -1,0 +1,17 @@
+
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "FTN75CJ49U.com.madferit.trivia"
+        ],
+        "components": [
+          {
+            "/": "/challenge*"
+          }
+        ]
+      }
+    ]
+  }
+}
